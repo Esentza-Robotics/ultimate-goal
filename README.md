@@ -2,7 +2,7 @@
 <h2 align="center">
 Link to our Autonomous Movements: https://youtu.be/OL_mBqS5bTU
 </h2>
-<p align="center">The first officially remote season of FTC, Ultimate Goal represented a challenge for a lot of teams, being a dynamic game, with all the rings flying around the field. During this season, our team participated in 3 competitions, 2 of them being remote and one a traditional event. We managed to win multiple awards, establish connections all around the globe with other passionate students, and, most importantly, expand our horizons while building complex robots, 3D Cading ideas, and implementing the most optimal solution while coding, which you can see in this repository.
+<p align="center">The first officially remote season of FTC, Ultimate Goal represented a challenge for a lot of teams, being a dynamic game, with all the rings flying around the field. During this season, our team participated in 3 competitions, 2 of them being remote and one a traditional event. We managed to win multiple awards, establish connections all around the globe with other passionate students, and, most importantly, expand our horizons while building complex robots, working with 3DCAD software, and implementing the most optimal solution while coding, which you can see in this repository.
 </p>
 <h2 align="center">BRD First Tech Challenge Romania Regional Championship</h2>
 <h3 align="center">Awards</h3>
